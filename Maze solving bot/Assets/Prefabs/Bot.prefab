@@ -214,3 +214,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6972fb029019ad04db859a9d1fd3cd26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  eyes: {fileID: 4883280065018180876}
+  distanceTravelled: 0
